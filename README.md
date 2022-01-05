@@ -8,4 +8,4 @@ Piccoli script in Python utili ad imparare il linguaggio di programmazaione ed a
       Script per effettuare il download esclusivamente dell'audio dei video dal sito di youtube;
 
 3 -   CSV ESTRAZIONE ACCORPAMENTO  
-      Script per individuare tutti i CSV in una cartella, e successivamente li accorpa in un unico file chiamato FILECSVNUOVO, nella direcory di lavoro;
+      Script per individuare tutti i CSV in una cartella e successivamente li accorpa in un unico file chiamato FILECSVNUOVO, nella direcory di lavoro;
