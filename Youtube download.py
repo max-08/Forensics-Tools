@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
-Salva video da youtube
+Effettua il download del video dalla sito di youtube
 This is a temporary script file.
 """
 
