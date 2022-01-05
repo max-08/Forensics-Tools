@@ -5,9 +5,8 @@ Created on Thu Dec 16 09:21:00 2021
 Lo script cerca ogni singolo file CSV lo apre ed aggiunge tutte le righe nella 
 lista dati, successivamente si crea il documento filecsvnuovo ed aggiunge tutto 
 il contenuto della lista
- 
-spostare e rinominare copiare file
-@author: max
+
+@author: max08
 """
 
 import os
