@@ -1,5 +1,6 @@
 # Script-Python
-Piccoli script in Python utili ad imparare il linguaggio di programmazaione ed ad automtizzare alcune funzioni.
+Piccoli script in Python utili per imparare il linguaggio di programmazzione ed ad automatizzare alcune funzioni.
+
 
 1 -   YOUTUBE DOWNLOAD            
       Script per effettuare il download di un video dal sito di Youtube;
