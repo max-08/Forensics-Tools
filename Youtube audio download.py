@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jan  4 18:07:13 2022
-Youtube avanzato estrae solo la musica dai video
+Youtube avanzato estrae solo la musica dai video di youtube, si possono inserire più video nella lista;
 
-@author: max
+@author: max08
 """
 
 
