@@ -1,4 +1,4 @@
-# Scrip che registra una finestra dello schermo in python, funziona solo con windows
+# Script che registra una finestra dello schermo in python, funziona solo con windows
 
 
 import cv2
