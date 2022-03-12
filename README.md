@@ -13,3 +13,6 @@ Piccoli script in Python utili per imparare il linguaggio di programmazzione ed 
 
 4 - HASH-FILE
       Crea la funzione di hash su un file
+      
+5 - SCREEN RECORDS
+      Script che registra lo schermo, esclusivamente una finestra pre- impostata, funziona solo su Windows 
