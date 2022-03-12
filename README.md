@@ -16,3 +16,6 @@ Piccoli script in Python utili per imparare il linguaggio di programmazzione ed 
       
 5 - SCREEN RECORDS
       Script che registra lo schermo, esclusivamente una finestra pre- impostata, funziona solo su Windows 
+
+6 - ORDINA FILES
+      Script ordina i files per tipologia all'interno di una cartella
