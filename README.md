@@ -14,8 +14,9 @@ Piccoli script in Python utili per imparare il linguaggio di programmazzione ed 
 4 - HASH-FILE
       Crea la funzione di hash su un file
       
-5 - SCREEN RECORDS
-      Script che registra lo schermo, esclusivamente una finestra pre- impostata, funziona solo su Windows 
+5 - SCREEN RECORDS                                                                                                                                                Script che registra lo schermo, esclusivamente una finestra pre- impostata, funziona solo su Windows 
 
-6 - ORDINA FILES
-      Script ordina i files per tipologia all'interno di una cartella
+6 - ORDINA FILES                                                                                                                                                  Script ordina i files per tipologia all'interno di una cartella
+      
+7  - ESTRAZIONE METADATI IMMAGINI                                                                                                                         
+       Estrae i metadati presenti in una immagine
