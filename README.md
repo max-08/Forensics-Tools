@@ -16,7 +16,10 @@ Piccoli script in Python utili per imparare il linguaggio di programmazzione ed 
       
 5 - SCREEN RECORDS                                                                                                                                                Script che registra lo schermo, esclusivamente una finestra pre- impostata, funziona solo su Windows 
 
-6 - ORDINA FILES                                                                                                                                                  Script ordina i files per tipologia all'interno di una cartella
+6 - ORDINA FILES                                                                                                                                                Script ordina i files per tipologia all'interno di una cartella
       
 7  - ESTRAZIONE METADATI IMMAGINI                                                                                                                         
-       Estrae i metadati presenti in una immagine
+       Estrae i metadati presenti in una immagine                                                                                                          
+
+8  - ESTRAE TABELLE HTML E CONVERTE IN CSV                                                                                                                 
+       Estrae da una pagina web in HTML le tabelle presenti e crea n tabelle in CSV (utiliza pandas)                                                              
