@@ -1,5 +1,6 @@
 # Script-Python
-Piccoli script in Python utili per imparare il linguaggio di programmazzione ed ad automatizzare alcune funzioni.
+Piccoli script in Python utili per imparare il linguaggio di programmazzione ed ad automatizzare alcune funzioni utili per la digital forensics.
+
 
 
 1 -   YOUTUBE DOWNLOAD            
@@ -27,3 +28,7 @@ Piccoli script in Python utili per imparare il linguaggio di programmazzione ed 
 9 - MONITOR PROCESSI
       Script visualizza i processi attivi sul sistema operativo. 
       Visualizza PID - NOME - CPU - MEMORIA - READ BYTE - WRITE BYTE - STATO - DATA - NR TREADS -CORES
+
+10 - SNIFFING NETWORK PROCESSI
+      Sniffing della rete 
+      pid - name -  create_time- create_time - Upload  - Download
