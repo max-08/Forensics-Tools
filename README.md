@@ -22,4 +22,8 @@ Piccoli script in Python utili per imparare il linguaggio di programmazzione ed 
        Estrae i metadati presenti in una immagine                                                                                                          
 
 8  - ESTRAE TABELLE HTML E CONVERTE IN CSV                                                                                                                 
-       Estrae da una pagina web in HTML le tabelle presenti e crea n tabelle in CSV (utiliza pandas)                                                              
+       Estrae da una pagina web in HTML le tabelle presenti e crea n tabelle in CSV (utiliza pandas) 
+
+9 - MONITOR PROCESSI
+      Script visualizza i processi attivi sul sistema operativo. 
+      Visualizza PID - NOME - CPU - MEMORIA - READ BYTE - WRITE BYTE - STATO - DATA - NR TREADS -CORES
