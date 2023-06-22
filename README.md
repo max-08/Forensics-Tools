@@ -128,5 +128,16 @@
 <p>PID- NAME &ndash; CREATE TIME &ndash; UPLOAD &ndash; DOWNLOAD</p>
 </td>
 </tr>
+<tr>
+<td style="text-align: center;" width="586">
+<h3><span style="color: #ff0000;">IP-LOCATION&nbsp;</span></h3>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="586">
+<p>Effettua la localizzazione dell'indirizzo IP fornito in input mediante le API di IPINFO</p>
+<p>(creare un account su IPINFO ed inserire il token nello script)</p>
+</td>
+</tr>
 </tbody>
 </table>
