@@ -31,43 +31,33 @@
 <h1 style="text-align: center;"><span style="color: #ff0000;">&nbsp;</span></h1>
 <table>
 <tbody>
-<tr>
-<td style="text-align: center;" width="586">
+<tr style="height: 40px;">
+<td style="text-align: center; height: 40px;" width="586">
 <h3><span style="color: #ff0000;">ORDINA FILES&nbsp;</span></h3>
 </td>
 </tr>
-<tr>
-<td style="text-align: center;" width="586">
+<tr style="height: 35px;">
+<td style="text-align: center; height: 35px;" width="586">
 <p>Ordina i files in base all&rsquo;estensione e per tipologia all'interno di una cartella</p>
 </td>
 </tr>
-<tr>
-<td style="text-align: center;" width="586">
+<tr style="height: 40px;">
+<td style="text-align: center; height: 40px;" width="586">
 <h3><span style="color: #ff0000;">CSV ESTRAZIONE ACCORPAMENTO&nbsp;</span></h3>
 </td>
 </tr>
-<tr>
-<td style="text-align: center;" width="586">
+<tr style="height: 55.1875px;">
+<td style="text-align: center; height: 55.1875px;" width="586">
 <p>Script per individuare tutti i CSV in una cartella e successivamente li accorpa in un unico file chiamato FILECSVNUOVO, nella directory di lavoro</p>
 </td>
 </tr>
-<tr>
-<td style="text-align: center;" width="586">
-<h3><span style="color: #ff0000;">CSV ESTRAZIONE ACCORPAMENTO&nbsp;</span></h3>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="586">
-<p>Script per individuare tutti i CSV in una cartella e successivamente li accorpa in un unico file chiamato FILECSVNUOVO, nella directory di lavoro</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="586">
+<tr style="height: 40px;">
+<td style="text-align: center; height: 40px;" width="586">
 <h3><span style="color: #ff0000;">ESTRAE TABELLE HTML E CONVERTE IN CSV</span></h3>
 </td>
 </tr>
-<tr>
-<td style="text-align: center;" width="586">
+<tr style="height: 60px;">
+<td style="text-align: center; height: 60px;" width="586">
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Estrae da una pagina web in HTML le tabelle presenti e crea n tabelle in CSV (utiliza pandas)</p>
 <p>&nbsp;</p>
 </td>
